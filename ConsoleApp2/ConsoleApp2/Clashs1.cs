@@ -8,5 +8,7 @@ namespace ConsoleApp2
 {
     class Clashs1
     {
+        new int oi;
     }
+
 }
